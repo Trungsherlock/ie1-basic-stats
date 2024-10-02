@@ -43,6 +43,3 @@ BUILD FAILED
 build.xml:17 Unable to find a javac compiler;
 ```
 You need to understand Java JDK before using it, okayyy?
-Hi Hoang and Hong Anh
-Nice to meet you
-HiHi
